@@ -63,8 +63,6 @@
     </Compile>
     <Compile Include="AssemblyInfo.fs" />
     <Compile Include="MessageArchivingParseTest.fs" />
-    <Compile Include="MessageArchiveStoreInterfaceTest.fs" />
-    <Compile Include="ArchiveManagerTests.fs" />
     <None Include="Script.fsx" />
     <None Include="app.config" />
     <None Include="paket.references" />
